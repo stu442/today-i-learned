@@ -12,4 +12,4 @@
 - [문자열 나누기](https://github.com/stu442/today-i-learned/blob/main/algorithm/1.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.md)
 
 ## 프로젝트
-### 가계부 프로젝트(Next.js)
+### 가계부 프로젝트(React.js)
