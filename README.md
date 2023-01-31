@@ -7,11 +7,7 @@
 - 일기와 다른 정보들은 [블로그](https://blog.naver.com/stu44229)에서 관리합니다. 
 - [namjunemy](https://github.com/namjunemy/TIL) 님의 깔끔한 TIL을 시도 중 입니다.
 
-<br/>
-
 ## 분류
 ---
-
-<br />
 
 ### 알고리즘
