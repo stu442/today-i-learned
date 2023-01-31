@@ -9,3 +9,4 @@
 
 ### 알고리즘(프로그래머스 자바스크립 풀이)
 #### Lv.1
+- [문자열 나누기](https://github.com/stu442/today-i-learned/blob/main/algorithm/1.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.md)
