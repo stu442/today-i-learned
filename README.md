@@ -18,4 +18,4 @@
 - [React Router 정리](https://github.com/stu442/today-i-learned/blob/main/React-Router/official-tutorial-v6.8.0.md)
 
 ## Next.js
-- [Next.js 공식문서 읽기]()
+- [Next.js 공식문서 읽기](https://github.com/stu442/today-i-learned/blob/main/nextjs/read-offical-docs.md)
