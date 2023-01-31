@@ -1,1 +1,54 @@
-# 1. 
+# 1. 문자열 나누기
+
+이번 문제는 생각보다 복잡했습니다.<br />
+열심히 풀어봤지만, 30분 내로 풀기는 쉽지 않았습니다.<br />
+
+## 내 풀이
+
+~~~ javascript
+  function solution(){
+    let arr = s.split('');
+    let a = [];
+    let b = [];
+    let initialNumber = arr.shift();
+    let count = 0;
+    a.push(initialNumber);
+    console.log(arr)
+    while(arr.length!==0){
+        initialNumber === arr[0] ? a.push(arr.shift()) : b.push(arr.shift())   
+      if(a.length === b.length) {
+            let a = [];
+            let b = [];
+            let initialNumber = arr.shift();
+            a.push(initialNumber);
+            count++
+        }
+    }
+    return count
+  }
+~~~
+
+테스트케이스 3문제 중 1문제만 맞아 버리는 상황이 생겨버렸다.
+
+## 베스트 풀이
+~~~ javascript
+function solution(s, count=0) {
+    if(!s) return count
+    let [first, ...rest] = s.split("")
+    let countSame = 1
+    let countInSame = 0
+    let i=0
+    for(; i<rest.length; i++){
+        if(rest[i] === first) countSame++
+        else countInSame++
+        if(countSame === countInSame) break
+    }
+    return solution(rest.slice(i+1).join(""), count+1)
+}
+~~~
+
+재귀함수로 풀어버렸다.
+
+### 배울점
+1. [구조 분해 할당](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)을 이런식으로도 가능하구나 싶었습니다. [spread syntax](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Spread_syntax) 와 함께 쓸 수 있다는 것을 배웠습니다.
+2. 재귀함수로 풀 수 있다는 새로운 접근 방식을 알았습니다. 이건 그냥 너무 멋진 풀이네요...
