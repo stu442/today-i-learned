@@ -20,3 +20,6 @@
 
 ## Next.js
 - [Next.js 공식문서 읽기](https://github.com/stu442/today-i-learned/blob/main/nextjs/read-offical-docs.md)
+
+## 자료구조(유데미 강의)
+- [빅오(Big O) 표기법]()
