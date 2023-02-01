@@ -22,4 +22,4 @@
 - [Next.js 공식문서 읽기](https://github.com/stu442/today-i-learned/blob/main/nextjs/read-offical-docs.md)
 
 ## 자료구조(유데미 강의)
-- [빅오(Big O) 표기법]()
+- [빅오(Big O) 표기법](https://github.com/stu442/today-i-learned/blob/main/data-structure/빅오(Big%20O)%20표기법.md)
