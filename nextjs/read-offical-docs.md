@@ -152,3 +152,10 @@ export default function App({ Component, pageProps }) {
 
 > global CSS 파일은 오직 pages/_app.js 에서만 import 할 수 있습니다. 다른 곳에는 **할 수 없습니다.**
 
+## **Pre-rendering and Data Fetching**
+
+Next.js 는 기본적으로 모든 페이지를 pre-render 합니다. 즉, Client-side Javascript 로 미리 생성하기 전에, Next.js 가 미리 각 페이지에 HTML을 생성한다는 것입니다.
+
+### **Summary : Pre-rendering vs No Pre-rendering**
+
+사진으로 보면 더 쉬울 것입니다.
