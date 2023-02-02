@@ -23,3 +23,5 @@
 
 ## 자료구조(유데미 강의)
 - [빅오(Big O) 표기법](https://github.com/stu442/today-i-learned/blob/main/data-structure/빅오(Big%20O)%20표기법.md)
+- [배열과 객체의 성능 평가]()
+- [문제 해결 접근법]()
