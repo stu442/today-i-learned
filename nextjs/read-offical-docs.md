@@ -152,10 +152,45 @@ export default function App({ Component, pageProps }) {
 
 > global CSS 파일은 오직 pages/_app.js 에서만 import 할 수 있습니다. 다른 곳에는 **할 수 없습니다.**
 
+
 ## **Pre-rendering and Data Fetching**
 
 Next.js 는 기본적으로 모든 페이지를 pre-render 합니다. 즉, Client-side Javascript 로 미리 생성하기 전에, Next.js 가 미리 각 페이지에 HTML을 생성한다는 것입니다.
 
 ### **Summary : Pre-rendering vs No Pre-rendering**
 
-사진으로 보면 더 쉬울 것입니다.
+[공식문서](https://nextjs.org/learn/basics/data-fetching/pre-rendering)의 사진으로 보면 더 쉬울 것입니다.
+
+ 말로 설명해보겠습니다.
+
+- Pre-rendering (Next.js 가 사용하는 방식)
+
+첫 로드 : 보여지는 HTML 을 미리 렌더 합니다.
+
+후에 자바스크립트가 로드됩니다.
+
+Hydration : 리액트 컴포넌트들이 초기화되고 앱이 상호작용 됩니다.
+
+만약, 링크 컴포넌트와 같이 당신의 앱이 컴포넌트들과 상호작용 한다면, 자바스크립트가 로드 된 후 황성화 될 것입니다.
+
+- No Pre-rendering (React.js 앱의 방식)
+
+첫 로드 : 자바스크립트가 로드되기 전까지는 렌더되지 않을 것입니다.
+
+후에 Hydration 됩니다.
+
+### **Two Forms of Pre-rendering**
+
+Next.js 에는 두가지 형태의 Pre-rendering 방식이 있습니다. 
+
+Static Generation (SSG) 과 Server-side Rendering (SSR) 이죠.
+
+- Static Generation 방식은 HTML이 **빌드 타임**에 생성되는 방식입니다. 그리고 미리 렌더된 HTML 은 요청할 때 마다 재사용 됩니다.
+
+- Server-side Rendering 방식은 HTML이 요청할 때마다 생성되는 방식입니다.
+
+Next.js 에서는 이 두 가지 방식을 각 페이지마다 다르게 사용할 수 있습니다.
+
+또, SSG 방식을 더 권하고있습니다.
+
+
