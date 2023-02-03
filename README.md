@@ -24,6 +24,7 @@
 - [Next.js 공식문서 읽기](https://github.com/stu442/today-i-learned/blob/main/nextjs/read-offical-docs.md)
 
 ## 자료구조(유데미 강의)
-- [빅오(Big O) 표기법](https://github.com/stu442/today-i-learned/blob/main/data-structure/빅오(Big%20O)%20표기법.md)
-- [배열과 객체의 성능 평가](https://github.com/stu442/today-i-learned/blob/main/data-structure/배열과%20객체의%20성능%20평가.md)
-- [문제 해결 접근법](https://github.com/stu442/today-i-learned/blob/main/data-structure/문제%20해결%20접근법.md)
+- [1. 빅오(Big O) 표기법](https://github.com/stu442/today-i-learned/blob/main/data-structure/1.%20빅오(Big%20O)%20표기법.md)
+- [2. 배열과 객체의 성능 평가]()
+- [3. 문제 해결 접근법]()
+- [4. 문제 해결 패턴]()
