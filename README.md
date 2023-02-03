@@ -25,6 +25,6 @@
 
 ## 자료구조(유데미 강의)
 - [1. 빅오(Big O) 표기법](https://github.com/stu442/today-i-learned/blob/main/data-structure/1.%20빅오(Big%20O)%20표기법.md)
-- [2. 배열과 객체의 성능 평가]()
-- [3. 문제 해결 접근법]()
-- [4. 문제 해결 패턴]()
+- [2. 배열과 객체의 성능 평가](https://github.com/stu442/today-i-learned/blob/main/data-structure/2.%20배열과%20객체의%20성능%20평가.md)
+- [3. 문제 해결 접근법](https://github.com/stu442/today-i-learned/blob/main/data-structure/3.%20문제%20해결%20접근법.md)
+- [4. 문제 해결 패턴](https://github.com/stu442/today-i-learned/blob/main/data-structure/4.%20문제%20해결%20패턴.md)
