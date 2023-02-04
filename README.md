@@ -31,4 +31,4 @@
 - [4. 문제 해결 패턴](https://github.com/stu442/today-i-learned/blob/main/data-structure/4.%20문제%20해결%20패턴.md)
 
 ## CS (Computer Science)
-- 웹 브라우저 동작 원리
+- [웹 브라우저 동작 원리](https://github.com/stu442/today-i-learned/blob/main/CS/웹%20브라우저%20동작%20원리.md)
