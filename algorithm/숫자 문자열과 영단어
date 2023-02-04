@@ -1,0 +1,75 @@
+# 숫자 문자열과 영단어
+
+이 문제는 s로 "one4seveneight" 이런식으로 주어지면,
+함수에서 1478 이라는 number 가 반환되면 되는 문제입니다.
+
+물론, s로 어떤 것이 들어올지는 모르고, 숫자와 영단어가 섞여서 입력됩니다.
+
+## 내 풀이
+
+~~~ javascript
+function solution(s) {
+    // 입력값 s 를 split 을 이용해 배열로 변환합니다.
+    let arr = s.split('');
+    let numberArr = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
+    let spell = "";
+    let answer = [];
+    
+    while(arr.length !== 0) {
+        // arr의 첫 번째 요소가 숫자인지 아닌지 확인합니다.
+        if(!isNaN(arr[0])){
+            answer.push(Number(arr.shift()));
+        } else{
+            //숫자가 아니라면, spell에 넣고 numberArr 에 해당하는 영단어와 같은게 있는지 확인합니다.
+        spell += arr.shift()
+        for(j=0; j<numberArr.length; j++){
+            if(spell === numberArr[j]){
+                // spell 과 영단어가 같은게 았다면, 배열, answer에 push 합니다.
+                answer.push(j)
+                spell = ""
+            }
+        }
+    }
+    }
+    // answer 는 배열이므로 join 해주고, string 이므로 Number 로 변환해줍니다.
+    return Number(answer.join(''))
+}
+~~~
+
+
+## 베스트 풀이
+
+~~~ javascript
+function solution(s) {
+    let numbers = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
+    var answer = s;
+
+    for(let i=0; i< numbers.length; i++) {
+        let arr = answer.split(numbers[i]);
+        answer = arr.join(i);
+    }
+
+    return Number(answer);
+}
+~~~
+
+split 과 join 을 정확하게 알고 있어야지만 나올 수 있는 해답입니다.
+
+정말 멋진 풀이입니다.
+
+split() 은 인자로 받은 string 값을 기준으로 나누어 배열로 만듭니다.
+
+~~~javascript
+console.log("onetwo3.split("zero")")
+// ["onetwo3"] 그대로 반환
+
+console.log("onetwo3.split("one")")
+// ["","two3"] 가 반환
+~~~
+
+join() 은 인자로 받은 값을 각 배열 요소 사이에 넣고 string 으로 만듭니다.
+
+~~~~javascript
+console.log(["a","b","c"].join(1))
+//"a1b1c" 반환
+~~~~
