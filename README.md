@@ -14,6 +14,7 @@
 - [이상한 문자 만들기](https://github.com/stu442/today-i-learned/blob/main/algorithm/2.%20이상한%20문자%20만들기.md)
 - [문자열 내 마음대로 정렬하기](https://github.com/stu442/today-i-learned/blob/main/algorithm/3.%20문자열%20내%20마음대로%20정렬하기.md)
 - [숫자 문자열과 영단어](https://github.com/stu442/today-i-learned/blob/main/algorithm/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md)
+- [크기가 작은 부분문자열](https://github.com/stu442/today-i-learned/blob/main/algorithm/크기가%20작은%20부분문자열.md)
 
 ## 프로젝트
 ### 가계부 프로젝트(React.js)
