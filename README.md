@@ -36,4 +36,4 @@
 - [웹 브라우저 동작 원리](https://github.com/stu442/today-i-learned/blob/main/CS/웹%20브라우저%20동작%20원리.md)
 - [OOP (Objet-Oriented Programming) 객체 지향 프로그래밍](https://github.com/stu442/today-i-learned/blob/main/CS/OOP.md)
 - [SOLID (객체지향 설계원칙)](https://github.com/stu442/today-i-learned/blob/main/CS/SOLID.md)
-- [HTTP](https://github.com/stu442/today-i-learned/blob/main/CS/웹%20브라우저%20동작%20원리.md)
+- [HTTP](https://github.com/stu442/today-i-learned/blob/main/CS/HTTP.md)
