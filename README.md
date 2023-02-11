@@ -33,6 +33,7 @@
 - [3. 문제 해결 접근법](https://github.com/stu442/today-i-learned/blob/main/data-structure/3.%20문제%20해결%20접근법.md)
 - [4. 문제 해결 패턴](https://github.com/stu442/today-i-learned/blob/main/data-structure/4.%20문제%20해결%20패턴.md)
 - [5. 재귀](https://github.com/stu442/today-i-learned/blob/main/data-structure/5.%20재귀.md)
+- [6. 검색 알고리즘](https://github.com/stu442/today-i-learned/blob/main/data-structure/6.%20검색%20알고리즘.md)
 
 ## CS (Computer Science)
 - [웹 브라우저 동작 원리](https://github.com/stu442/today-i-learned/blob/main/CS/웹%20브라우저%20동작%20원리.md)
