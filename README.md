@@ -19,7 +19,6 @@
 - [K 번째 수](https://github.com/stu442/today-i-learned/blob/main/algorithm/K번째수.md)
 
 ## 프로젝트
-### 가계부 프로젝트(React.js)
 
 ## React Router
 - [React Router 정리](https://github.com/stu442/today-i-learned/blob/main/React-Router/official-tutorial-v6.8.0.md)
