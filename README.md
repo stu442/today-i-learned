@@ -41,3 +41,5 @@
 - [OOP (Objet-Oriented Programming) 객체 지향 프로그래밍](https://github.com/stu442/today-i-learned/blob/main/CS/OOP.md)
 - [SOLID (객체지향 설계원칙)](https://github.com/stu442/today-i-learned/blob/main/CS/SOLID.md)
 - [HTTP](https://github.com/stu442/today-i-learned/blob/main/CS/HTTP.md)
+
+## [노마드 코더 - 노개북 챌린지]()
