@@ -35,6 +35,7 @@
 - [6. 검색 알고리즘](https://github.com/stu442/today-i-learned/blob/main/data-structure/6.%20검색%20알고리즘.md)
 - [7~10. 버블,선택,삽입정렬](https://github.com/stu442/today-i-learned/blob/main/data-structure/7%7E10.%20버블%2C선택%2C삽입정렬.md)
 - [11~13. 합병,퀵,기수 정렬](https://github.com/stu442/today-i-learned/blob/main/data-structure/11%7E13.%20합병%2C%20퀵%2C%20기수%20정렬.md)
+- [14. 자료 구조 소개 (ES2015 CLASS SYNTAX)](https://github.com/stu442/today-i-learned/blob/main/data-structure/14.%20자료%20구조%20소개%20(ES2015%20CLASS%20SYNTAX).md)
 
 ## CS (Computer Science)
 - [웹 브라우저 동작 원리](https://github.com/stu442/today-i-learned/blob/main/CS/웹%20브라우저%20동작%20원리.md)
