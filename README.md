@@ -46,3 +46,4 @@
 ## 노마드 코더 - 노개북 챌린지
 - [1일차](https://github.com/stu442/today-i-learned/blob/main/노개북/1주차.md)
 - [2일차](https://github.com/stu442/today-i-learned/blob/main/노개북/2일차.md)
+- [3일차](https://github.com/stu442/today-i-learned/blob/main/노개북/3일차.md)
