@@ -47,3 +47,4 @@
 - [1일차](https://github.com/stu442/today-i-learned/blob/main/노개북/1주차.md)
 - [2일차](https://github.com/stu442/today-i-learned/blob/main/노개북/2일차.md)
 - [3일차](https://github.com/stu442/today-i-learned/blob/main/노개북/3일차.md)
+- [4일차](https://github.com/stu442/today-i-learned/blob/main/노개북/4일차.md)
