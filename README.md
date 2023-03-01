@@ -51,3 +51,4 @@
 - [7일차](https://github.com/stu442/today-i-learned/blob/main/노개북/7일차.md)
 - [10일차](https://github.com/stu442/today-i-learned/blob/main/노개북/10일차.md)
 - [12일차](https://github.com/stu442/today-i-learned/blob/main/노개북/12일차.md)
+- [13일차](https://github.com/stu442/today-i-learned/blob/main/노개북/13일차.md)
