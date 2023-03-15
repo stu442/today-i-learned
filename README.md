@@ -20,7 +20,7 @@
 
 ## 프로젝트
 
-- [저기어때](https://github.com/stu442/today-i-learned/blob/main/프로젝트/저기어때/데이터중복방지.md)
+- [저기어때](https://github.com/stu442/today-i-learned/blob/main/프로젝트/저기어때.md)
 
 ## React Router
 - [React Router 정리](https://github.com/stu442/today-i-learned/blob/main/React-Router/official-tutorial-v6.8.0.md)
