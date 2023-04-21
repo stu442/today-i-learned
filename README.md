@@ -50,7 +50,7 @@
 - [HTTP](https://github.com/stu442/today-i-learned/blob/main/CS/HTTP.md)
 
     ### 네트워크
-    - [모두의 네트워크]()
+    - [모두의 네트워크](https://github.com/stu442/today-i-learned/blob/main/CS/네트워크/모두의%20네트워크.md)
 
 ## 노마드 코더 - 노개북 챌린지
 - [1일차](https://github.com/stu442/today-i-learned/blob/main/노개북/1주차.md)
