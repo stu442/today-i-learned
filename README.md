@@ -49,6 +49,9 @@
 - [SOLID (객체지향 설계원칙)](https://github.com/stu442/today-i-learned/blob/main/CS/SOLID.md)
 - [HTTP](https://github.com/stu442/today-i-learned/blob/main/CS/HTTP.md)
 
+    ### 네트워크
+    - [모두의 네트워크]()
+
 ## 노마드 코더 - 노개북 챌린지
 - [1일차](https://github.com/stu442/today-i-learned/blob/main/노개북/1주차.md)
 - [2일차](https://github.com/stu442/today-i-learned/blob/main/노개북/2일차.md)
