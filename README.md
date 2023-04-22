@@ -17,6 +17,7 @@
 - [크기가 작은 부분문자열](https://github.com/stu442/today-i-learned/blob/main/algorithm/크기가%20작은%20부분문자열.md)
 - [없는 숫자 더하기](https://github.com/stu442/today-i-learned/blob/main/algorithm/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.md)
 - [K 번째 수](https://github.com/stu442/today-i-learned/blob/main/algorithm/K번째수.md)
+- [구명보트](https://github.com/stu442/today-i-learned/blob/main/algorithm/구명보트.md)
 
 #### Lv.2
 
