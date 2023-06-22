@@ -63,3 +63,7 @@
 - [12일차](https://github.com/stu442/today-i-learned/blob/main/노개북/12일차.md)
 - [13일차](https://github.com/stu442/today-i-learned/blob/main/노개북/13일차.md)
 - [14일차](https://github.com/stu442/today-i-learned/blob/main/노개북/14일차.md)
+
+## 파이썬
+
+### 나도코딩, 웹 스크래핑 강의
