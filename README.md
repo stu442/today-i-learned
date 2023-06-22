@@ -43,6 +43,9 @@
 - [7~10. 버블,선택,삽입정렬](https://github.com/stu442/today-i-learned/blob/main/data-structure/7%7E10.%20버블%2C선택%2C삽입정렬.md)
 - [11~13. 합병,퀵,기수 정렬](https://github.com/stu442/today-i-learned/blob/main/data-structure/11%7E13.%20합병%2C%20퀵%2C%20기수%20정렬.md)
 - [14. 자료 구조 소개 (ES2015 CLASS SYNTAX)](https://github.com/stu442/today-i-learned/blob/main/data-structure/14.%20자료%20구조%20소개%20(ES2015%20CLASS%20SYNTAX).md)
+- [15. 단일 연결 리스트](https://github.com/stu442/today-i-learned/blob/main/data-structure/15.%20단일%20연결%20리스트.md)
+- [17. 스택, 큐](https://github.com/stu442/today-i-learned/blob/main/data-structure/17.%20스택%20큐.md)
+- [18. 트리](https://github.com/stu442/today-i-learned/blob/main/data-structure/17.%20스택%20큐.md)
 
 ## CS (Computer Science)
 - [웹 브라우저 동작 원리](https://github.com/stu442/today-i-learned/blob/main/CS/웹%20브라우저%20동작%20원리.md)
@@ -67,3 +70,6 @@
 ## 파이썬
 
 ### 나도코딩, 웹 스크래핑 강의
+- [Request 기본](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/Request%20기본.md)
+- [User Agent](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/User%20Agent.md)
+- [정규식 기본](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/정규식%20기본.md)
