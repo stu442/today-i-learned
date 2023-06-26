@@ -153,7 +153,7 @@ for i in range(1, 6):
 
 ~~~
 
-파이썬, [[정규식 기본]] 참조
+파이썬, [정규식 기본 참조](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/정규식%20기본.md)
 
 
 ## 활용편 (다음 이미지)
@@ -189,4 +189,4 @@ images = soup.find_all(“img”, attrs={“class”:”thumb_img”})
 		
 ~~~
 
-[[Request 기본#with 문]]
+[Request 기본 with문 참조](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/Request%20기본.md)
