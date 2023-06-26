@@ -74,3 +74,5 @@
 - [Request 기본](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/Request%20기본.md)
 - [User Agent](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/User%20Agent.md)
 - [정규식 기본](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/정규식%20기본.md)
+- [BeautifulSoup4](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/BeautifulSoup4.md)
+- [CSV 기본](https://github.com/stu442/today-i-learned/blob/main/나도코딩-웹스크래핑/CSV%20기본.md)
