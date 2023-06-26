@@ -46,6 +46,7 @@
 - [15. 단일 연결 리스트](https://github.com/stu442/today-i-learned/blob/main/data-structure/15.%20단일%20연결%20리스트.md)
 - [17. 스택, 큐](https://github.com/stu442/today-i-learned/blob/main/data-structure/17.%20스택%20큐.md)
 - [18. 트리](https://github.com/stu442/today-i-learned/blob/main/data-structure/17.%20스택%20큐.md)
+- [19. 트리 순회](https://github.com/stu442/today-i-learned/blob/main/data-structure/19.%20트리순회.md)
 
 ## CS (Computer Science)
 - [웹 브라우저 동작 원리](https://github.com/stu442/today-i-learned/blob/main/CS/웹%20브라우저%20동작%20원리.md)
