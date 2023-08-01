@@ -8,20 +8,9 @@
 
 ## 분류
 
-### 알고리즘(프로그래머스 자바스크립 풀이)
-#### Lv.1
-- [문자열 나누기](https://github.com/stu442/today-i-learned/blob/main/algorithm/1.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.md)
-- [이상한 문자 만들기](https://github.com/stu442/today-i-learned/blob/main/algorithm/2.%20이상한%20문자%20만들기.md)
-- [문자열 내 마음대로 정렬하기](https://github.com/stu442/today-i-learned/blob/main/algorithm/3.%20문자열%20내%20마음대로%20정렬하기.md)
-- [숫자 문자열과 영단어](https://github.com/stu442/today-i-learned/blob/main/algorithm/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md)
-- [크기가 작은 부분문자열](https://github.com/stu442/today-i-learned/blob/main/algorithm/크기가%20작은%20부분문자열.md)
-- [없는 숫자 더하기](https://github.com/stu442/today-i-learned/blob/main/algorithm/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.md)
-- [K 번째 수](https://github.com/stu442/today-i-learned/blob/main/algorithm/K번째수.md)
-- [구명보트](https://github.com/stu442/today-i-learned/blob/main/algorithm/구명보트.md)
+### [알고리즘](https://github.com/stu442/today-i-learned/tree/main/algorithm)(프로그래머스 자바스크립 풀이)
 
-#### Lv.2
-
-- [JadenCase 문자열](https://github.com/stu442/today-i-learned/blob/main/algorithm/JadenCase%20문자열.md)
+알고리즘은 너무 많아서 따로 리스트로 만들지 않겠습니다.
 
 ## 프로젝트
 
